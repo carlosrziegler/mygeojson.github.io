@@ -1,8 +1,4 @@
-{
-    "$type": "dataSet:map",
-    "name": "OX1Map",
-    "mapType": "pointsPOI",
-    "data": {
+ {
         "$type": "dataSet:map:FeatureCollection",
         "type": "FeatureCollection",
         "features": [
@@ -254,45 +250,4 @@
                 }
             }
         ]
-    },
-    "options": {
-        "$type": "dataSet:map:options",
-        "legend": {
-            "title": "Points of Interest",
-            "legendData": [
-                {
-                    "colorCode": "#F8621E",
-                    "label": "Einzelhandel"
-                },
-                {
-                    "colorCode": "#3375F8",
-                    "label": "Infrastruktur"
-                },
-                {
-                    "colorCode": "#F21B42",
-                    "label": "Restaurants"
-                },
-                {
-                    "colorCode": "#A54CE0",
-                    "label": "Schulen"
-                },
-                {
-                    "colorCode": "#17A842",
-                    "label": "Soziale Einrichtungen"
-                }
-            ]
-        },
-        "data": [
-            {
-                "$type": "dataSet:map:FeatureCollection:feature:properties:dataKeyValue",
-                "key": "maxRadius",
-                "value": 2
-            },
-            {
-                "$type": "dataSet:map:FeatureCollection:feature:properties:dataKeyValue",
-                "key": "radiusStepSize",
-                "value": 0.5
-            }
-        ]
     }
-}

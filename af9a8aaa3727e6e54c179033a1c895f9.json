@@ -1,8 +1,4 @@
-{
-  "$type": "dataSet:map",
-  "name": "OX1Map",
-  "mapType": "polygonsOverlapping",
-  "data": {
+ {
     "$type": "dataSet:map:FeatureCollection",
     "type": "FeatureCollection",
     "features": [
@@ -643,33 +639,4 @@
         }
       }
     ]
-  },
-  "options": {
-    "$type": "dataSet:map:options",
-    "legend": {
-      "title": "Overview Geo-Ebenen",
-      "legendData": [
-        {
-          "label": "Gemeinde",
-          "colorCode": "#A549DE"
-        },
-        {
-          "label": "Bezirk",
-          "colorCode": "#3e67fa"
-        },
-        {
-          "label": "Postleitzahl",
-          "colorCode": "#FC8B44"
-        },
-        {
-          "label": "Wohnquartier",
-          "colorCode": "#11FA7A"
-        },
-        {
-          "label": "mercuryCube",
-          "colorCode": "#FADB3E"
-        }
-      ]
-    }
   }
-}
