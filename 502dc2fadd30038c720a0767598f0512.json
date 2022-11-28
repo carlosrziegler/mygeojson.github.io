@@ -1,0 +1,298 @@
+{
+    "$type": "dataSet:map",
+    "name": "OX1Map",
+    "mapType": "pointsPOI",
+    "data": {
+        "$type": "dataSet:map:FeatureCollection",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.3989248843025,
+                        52.52454842446868
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "1",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.2882000008680311,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.3987412,
+                        52.5245411
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "2",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.3004121726379848,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.3985387,
+                        52.5255244
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "3",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.3463375653160711,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.39693978673015,
+                        52.52592363584392
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "4",
+                    "name": "Krankenhaus",
+                    "distance": 0.4634046783451519,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.3978141,
+                        52.5292905
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "5",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.6754121484346914,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.40445596604483,
+                        52.53246254789849
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "6",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.9287145067700261,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.38991604257002,
+                        52.52182416232692
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "7",
+                    "name": "Soziale Einrichtung",
+                    "distance": 0.9331733214519393,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.4057172,
+                        52.5132582
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "8",
+                    "name": "Soziale Einrichtung",
+                    "distance": 1.225442380408932,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.42282,
+                        52.526346
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "9",
+                    "name": "Soziale Einrichtung",
+                    "distance": 1.35894291101297,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.3857661,
+                        52.5310817
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "10",
+                    "name": "Soziale Einrichtung",
+                    "distance": 1.407607253610728,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.42212944652599,
+                        52.51599581924072
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "11",
+                    "name": "Soziale Einrichtung",
+                    "distance": 1.577730944902117,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.38776391147119,
+                        52.53505393941881
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "12",
+                    "name": "Krankenhaus",
+                    "distance": 1.599024876502719,
+                    "color": "#17A842"
+                }
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.37744585263627,
+                        52.52591992471199
+                    ],
+                    "$type": "dataSet:map:FeatureCollection:feature:point"
+                },
+                "properties": {
+                    "$type": "dataSet:map:FeatureCollection:feature:properties",
+                    "id": "13",
+                    "name": "Krankenhaus",
+                    "distance": 1.75370618621436,
+                    "color": "#17A842"
+                }
+            }
+        ]
+    },
+    "options": {
+        "$type": "dataSet:map:options",
+        "legend": {
+            "title": "Points of Interest",
+            "legendData": [
+                {
+                    "colorCode": "#F8621E",
+                    "label": "Einzelhandel"
+                },
+                {
+                    "colorCode": "#3375F8",
+                    "label": "Infrastruktur"
+                },
+                {
+                    "colorCode": "#F21B42",
+                    "label": "Restaurants"
+                },
+                {
+                    "colorCode": "#A54CE0",
+                    "label": "Schulen"
+                },
+                {
+                    "colorCode": "#17A842",
+                    "label": "Soziale Einrichtungen"
+                }
+            ]
+        },
+        "data": [
+            {
+                "$type": "dataSet:map:FeatureCollection:feature:properties:dataKeyValue",
+                "key": "maxRadius",
+                "value": 2
+            },
+            {
+                "$type": "dataSet:map:FeatureCollection:feature:properties:dataKeyValue",
+                "key": "radiusStepSize",
+                "value": 0.5
+            }
+        ]
+    }
+}
